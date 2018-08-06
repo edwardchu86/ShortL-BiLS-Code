@@ -1,9 +1,11 @@
 # ShortL-BiLS-Code
-%======================================================================================
-
+%===============================================================================
+%
 The codes for the paper: A Shortlist-based Bidirectional Local Search for the Stable Marriage Problem
+%
 Authors: Hoang Huu Viet, Le Hong Trang, SeungGwan Lee, Le Pham Tuyen, TaeChoong Chung
-%======================================================================================
+%
+%===============================================================================
 1) For FullL-BiLS algorithm:
   - Run the file FullL-BiLS.m in the folder BiLS-Fulllists for testing example.
   - Run the file FullL_BiLS_Simulations.m in the folder BiLS-Fulllists for simulations in the paper
@@ -31,5 +33,5 @@ Note:
   - All the figures in the papers are produced by the codes in the folder: Outputs\test1
   - The results of SML algorithm as in the foler Outputs\test50
   
- ===========================================================================================
+ ======================================================================================
   
